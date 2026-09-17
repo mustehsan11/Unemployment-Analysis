@@ -1,9 +1,3 @@
-#  Unemployment Analysis in India — COVID-19 Impact
-
-> **Data Science Internship — Task 2**  
-> Exploratory data analysis and visualisation of unemployment trends across Indian states, with a focus on the impact of the COVID-19 pandemic.
-
----
 
 ##  Overview
 
